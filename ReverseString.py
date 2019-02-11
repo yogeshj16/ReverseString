@@ -2,7 +2,7 @@
 # hgf#edc,ba$@
 # @$hg,fed#cba
 
-# ======================= FUNCTIONS ====================== #
+#======================= FUNCTIONS ======================#
 
 # Returns a list from a string
 def str2list(istr):
